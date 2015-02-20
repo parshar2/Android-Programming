@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="networkButton">Network</string>
+    <string name="WiFiButton">WiFi</string>
+    <string name="GPSButton">GPS</string>
+    <string name="FusedButton">Fused</string>
+    <string name="NetworkButton">Network</string>
+    <string name="startTracking">Start Tracking</string>
+    <string name="stopTracking">Stop  Tracking</string>
+    <string name="lastLocation">Last Location</string>
+    <string name="service_not_available">Reverse geocoder service is not available currently</string>
+    <string name="invalid_lat_long_used">Invalid latitude longitude values specified</string>
+    <string name="no_address_found">No address found for corresponding lat long</string>
+    <string name="getAddressButton">Get Address</string>
+
+</resources>
